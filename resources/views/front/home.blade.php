@@ -28,12 +28,12 @@
             <div class="item-wrapper">
                 <div class="img-wrapper">
                     <a class="button expanded add-to-cart">
-                        Add to Cart
+                        Read Later
                     </a>
 
 
                     <a href="#">
-                        <img src="http://i.imgur.com/Mcw06Yt.png"/>
+                        <img src="http://compressimage.toolur.com/download/20180328-08-9qDLkb9H9FIdVf6e-QDdLVs/imga.jpg"/>
                     </a>
                 </div>
 
@@ -43,12 +43,12 @@
             <div class="item-wrapper">
                 <div class="img-wrapper">
                     <a class="button expanded add-to-cart">
-                        Add to Cart
+                        Read Later
                     </a>
 
 
                     <a href="#">
-                        <img src="http://i.imgur.com/Mcw06Yt.png"/>
+                        <img src="http://compressimage.toolur.com/download/20180328-08-EZzXVetIm1LMxTKb-or1Aq5/imgb.jpg"/>
                     </a>
                 </div>
 
@@ -57,12 +57,12 @@
             <div class="item-wrapper">
                 <div class="img-wrapper">
                     <a class="button expanded add-to-cart">
-                        Add to Cart
+                        Read Later
                     </a>
 
 
                     <a href="#">
-                        <img src="http://i.imgur.com/Mcw06Yt.png"/>
+                        <img src="http://compressimage.toolur.com/download/20180328-09-tqWytnDRTcBQIPLm-JfcZD6/imgaa.jpg"/>
                     </a>
                 </div>
 
@@ -71,7 +71,7 @@
             <div class="item-wrapper">
                 <div class="img-wrapper">
                     <a class="button expanded add-to-cart">
-                        Add to Cart
+                        Read Later
                     </a>
 
 
@@ -97,12 +97,12 @@
                 <div class="item-wrapper">
                     <div class="img-wrapper">
                         <a class="button expanded add-to-cart">
-                            Add to Cart
+                            Read Later
                         </a>
 
 
                         <a href="#">
-                            <img src="http://i.imgur.com/Mcw06Yt.png"/>
+                            <img src="http://compressimage.toolur.com/download/20180328-09-SDjTM1ygv4sDeSM4-EE274H/img1a.jpg"/>
                         </a>
                     </div>
                     <a href="#">
@@ -122,10 +122,10 @@
                 <div class="item-wrapper">
                     <div class="img-wrapper">
                         <a class="button expanded add-to-cart">
-                            Add to Cart
+                            Read Later
                         </a>
                         <a href="#">
-                            <img src="http://i.imgur.com/Mcw06Yt.png"/>
+                            <img src="http://compressimage.toolur.com/download/20180328-09-VUWDDbnKFBs3roJu-JIUMSU/12img.jpg"/>
                         </a>
                     </div>
                     <a href="#">
@@ -145,10 +145,10 @@
                 <div class="item-wrapper">
                     <div class="img-wrapper">
                         <a class="button expanded add-to-cart">
-                            Add to Cart
+                            Read Later
                         </a>
                         <a href="#">
-                            <img src="http://i.imgur.com/Mcw06Yt.png"/>
+                            <img src="http://compressimage.toolur.com/download/20180328-09-geTHWTVVulMsvayP-7zryke/2.jpg"/>
                         </a>
                     </div>
                     <a href="#">
@@ -168,10 +168,10 @@
                 <div class="item-wrapper">
                     <div class="img-wrapper">
                         <a class="button expanded add-to-cart">
-                            Add to Cart
+                            Read Later
                         </a>
                         <a href="#">
-                            <img src="http://i.imgur.com/Mcw06Yt.png"/>
+                            <img src="http://compressimage.toolur.com/download/20180328-09-ywnhmiqsOO7l0PDq-lhswNg/11.jpg"/>
                         </a>
                     </div>
                     <a href="#">
