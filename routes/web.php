@@ -16,3 +16,5 @@
 
 Route::get('/', 'HomeController@index')->name('home');
 Route::get('/aboutus', 'HomeController@aboutus')->name('aboutus');
+Route::get('/books', 'HomeController@books')->name('books');
+Route::get('/trending', 'HomeController@trending')->name('trending');

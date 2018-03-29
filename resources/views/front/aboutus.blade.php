@@ -39,11 +39,11 @@
             background-color: #f6f6f6;
         }
         .logo-small {
-            color: #f4511e;
+            color: red;
             font-size: 50px;
         }
         .logo {
-            color: #f4511e;
+            color: red;
             font-size: 200px;
         }
         .thumbnail {
@@ -58,13 +58,13 @@
         }
         .carousel-control.right, .carousel-control.left {
             background-image: none;
-            color: #f4511e;
+            color: red;
         }
         .carousel-indicators li {
-            border-color: #f4511e;
+            border-color: red;
         }
         .carousel-indicators li.active {
-            background-color: #f4511e;
+            background-color: red;
         }
         .item h4 {
             font-size: 19px;
@@ -77,7 +77,7 @@
             font-style: normal;
         }
         .panel {
-            border: 1px solid #f4511e;
+            border: 1px solid red;
             border-radius:0 !important;
             transition: box-shadow 0.5s;
         }
@@ -85,13 +85,13 @@
             box-shadow: 5px 0px 40px rgba(0,0,0, .2);
         }
         .panel-footer .btn:hover {
-            border: 1px solid #f4511e;
+            border: 1px solid red;
             background-color: #fff !important;
-            color: #f4511e;
+            color: red;
         }
         .panel-heading {
             color: #fff !important;
-            background-color: #f4511e !important;
+            background-color: red !important;
             padding: 25px;
             border-bottom: 1px solid transparent;
             border-top-left-radius: 0px;
@@ -111,13 +111,13 @@
         }
         .panel-footer .btn {
             margin: 15px 0;
-            background-color: #f4511e;
+            background-color: red;
             color: #fff;
         }
         .navbar {
             margin-bottom: 0;
 
-            background-color: #f4511e;
+            background-color: red;
             z-index: 9999;
             border: 0;
             font-size: 12px !important;
@@ -130,7 +130,7 @@
             color: #fff !important;
         }
         .navbar-nav li a:hover, .navbar-nav li.active a {
-            color: #f4511e !important;
+            color: red !important;
             background-color: #fff !important;
         }
         .navbar-default .navbar-toggle {
@@ -140,14 +140,14 @@
         footer .glyphicon {
             font-size: 20px;
             margin-bottom: 20px;
-            color: #f4511e;
+            color:red;
         }
         .slideanim {visibility:hidden;}
         .slide {
             animation-name: slide;
             -webkit-animation-name: slide;
-            animation-duration: 1s;
-            -webkit-animation-duration: 1s;
+            animation-duration: .5s;
+            -webkit-animation-duration: .5s;
             visibility: visible;
         }
         @keyframes slide {
@@ -202,7 +202,7 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#about">Book</a></li>
+                <li><a href="{{url('books')}}">Books</a></li>
                 <li><a href="#services">Services</a></li>
                 <li><a href="#portfolio">Documents</a></li>
                 <li><a href="#pricing">PRICING</a></li>

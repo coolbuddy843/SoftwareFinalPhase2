@@ -12,7 +12,7 @@
             </strong>
         </h2>
         <br>
-        <a href="shirts.html"><button class="button large">Trending Now</button></a>
+        <a href="{{url('trending')}}"><button class="button large">Trending Now</button></a>
     </section>
     <br/>
     <div class="subheader text-center">
@@ -33,7 +33,7 @@
 
 
                     <a href="#">
-                        <img src="http://compressimage.toolur.com/download/20180328-08-9qDLkb9H9FIdVf6e-QDdLVs/imga.jpg"/>
+                        <img src="https://github.com/greatshah222/Software_development/blob/firstPhase/2.jpg?raw=true"/>
                     </a>
                 </div>
 
@@ -48,7 +48,8 @@
 
 
                     <a href="#">
-                        <img src="http://compressimage.toolur.com/download/20180328-08-EZzXVetIm1LMxTKb-or1Aq5/imgb.jpg"/>
+
+                        <img src="https://github.com/greatshah222/Software_development/blob/firstPhase/9780134743356_l.jpg?raw=true"/>
                     </a>
                 </div>
 
@@ -62,7 +63,7 @@
 
 
                     <a href="#">
-                        <img src="http://compressimage.toolur.com/download/20180328-09-tqWytnDRTcBQIPLm-JfcZD6/imgaa.jpg"/>
+                        <img src="https://github.com/greatshah222/Software_development/blob/firstPhase/11.jpg?raw=true"/>
                     </a>
                 </div>
 
@@ -102,7 +103,7 @@
 
 
                         <a href="#">
-                            <img src="http://compressimage.toolur.com/download/20180328-09-SDjTM1ygv4sDeSM4-EE274H/img1a.jpg"/>
+                            <img src="https://github.com/greatshah222/Software_development/blob/firstPhase/img1a.jpg?raw=true"/>
                         </a>
                     </div>
                     <a href="#">
@@ -125,7 +126,7 @@
                             Read Later
                         </a>
                         <a href="#">
-                            <img src="http://compressimage.toolur.com/download/20180328-09-VUWDDbnKFBs3roJu-JIUMSU/12img.jpg"/>
+                            <img src="https://github.com/greatshah222/Software_development/blob/firstPhase/imga.jpg?raw=true"/>
                         </a>
                     </div>
                     <a href="#">
@@ -148,7 +149,7 @@
                             Read Later
                         </a>
                         <a href="#">
-                            <img src="http://compressimage.toolur.com/download/20180328-09-geTHWTVVulMsvayP-7zryke/2.jpg"/>
+                            <img src="https://github.com/greatshah222/Software_development/blob/firstPhase/imgaa.jpg?raw=true"/>
                         </a>
                     </div>
                     <a href="#">
@@ -171,7 +172,7 @@
                             Read Later
                         </a>
                         <a href="#">
-                            <img src="http://compressimage.toolur.com/download/20180328-09-ywnhmiqsOO7l0PDq-lhswNg/11.jpg"/>
+                            <img src="https://github.com/greatshah222/Software_development/blob/firstPhase/p02vdpfn.jpg?raw=true"/>
                         </a>
                     </div>
                     <a href="#">
